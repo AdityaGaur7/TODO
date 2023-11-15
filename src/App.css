@@ -94,6 +94,10 @@ button:hover{
 .poora {
   width: 100%;
 }
+.pkmnimg{
+  width: 40%;
+  height: auto;
+}
 @media (max-width:720px) {
   .pkmnimg{
     width: 100%;
