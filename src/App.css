@@ -12,7 +12,9 @@ body{
   background-color: rgb(169, 164, 164);
 }
 
-
+.completed {
+  text-decoration: line-through;
+}
 .cards{
   width: 100%;
   height: auto;
